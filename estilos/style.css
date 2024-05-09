@@ -110,11 +110,11 @@ div.formu > input{
     background-color: #ebab44c4;
     font-size: 1em;
     width: calc(100% - 45px);
-    transform: translateY(-12px);
     height: 100%;
     border: 0px;
     border-radius: 5px;
     padding: 4px;
+    transform: translateY(-12px);
 }
 div.formu > input:focus-within{
     background-color: aliceblue;
